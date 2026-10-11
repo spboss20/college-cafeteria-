@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Food / Bite / Burger & Utensils Icon inside 66dp safe zone -->
+    <!-- Top Burger Bun / Cloche -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,32 C41,32 34,40 34,46 L74,46 C74,40 67,32 54,32 Z" />
+    <!-- Sesame seeds -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M48,37 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 M58,36 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 M44,42 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 M62,41 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <!-- Cheese layer with bite/drips -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M33,48 L75,48 L71,55 L58,51 L52,56 L44,51 L33,48 Z" />
+    <!-- Veggie Patty / Filling -->
+    <path
+        android:fillColor="#4ade80"
+        android:pathData="M34,53 C34,51 36,50 38,50 L70,50 C72,50 74,51 74,53 C74,55 72,56 70,56 L38,56 C36,56 34,55 34,53 Z" />
+    <!-- Bottom Bun -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M35,58 L73,58 C73,66 65,70 54,70 C43,70 35,66 35,58 Z" />
+    <!-- Steam / Warmth curls -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M46,27 C44,24 48,22 46,19 M54,26 C52,23 56,21 54,18 M62,27 C60,24 64,22 62,19" />
+    <!-- Campus badge checkmark / Star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,74 L56.5,79 L62,79.5 L58,83.5 L59,89 L54,86 L49,89 L50,83.5 L46,79.5 L51.5,79 Z" />
+</vector>

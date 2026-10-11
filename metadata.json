@@ -1,0 +1,6 @@
+{
+  "name": "JECRC CampusBite",
+  "description": "Smart Campus Food Ordering & Pickup App for JECRC Foundation College, Jaipur. Order smart, skip the queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
